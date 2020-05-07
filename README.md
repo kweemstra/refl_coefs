@@ -7,13 +7,13 @@ Python notebooks that allows one to compute the reflection and transmission coef
 
 ## Notebooks
 
-* Refl_Trans_coef.ipynb: 
+* Refl_Trans_coef.ipynb:   
 Should run out of the box. The theory and system of equations are described in more detail in  https://www.kweemstra.com/..
 
-* Refl_Trans_coef_students.ipynb:
+* Refl_Trans_coef_students.ipynb:   
  is can be run as a Jupyter notebook on microsoft azure under (https://notebooks.azure.com/kweemstra/projects).
 
-* Reflection_Transmission_ammon.ipynb:
+* Reflection_Transmission_ammon.ipynb:   
 https://sites.psu.edu/charlesammon/2017/01/19/seismic-reflectiontransmission-coefficients-with-matlab/
 <br/>
 <br/>
