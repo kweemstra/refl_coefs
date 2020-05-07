@@ -15,6 +15,3 @@ Trimmed down version of 'Refl_Trans_coef.ipynb'. The students are expected to wr
 
 * **Reflection_Transmission_ammon.ipynb**:   
 Notebook in which the reflection and transmission coefficients are computed based on the formulations in Aki & Richards (2nd edition; Section 5.2.4). The code is a translation of the [Matlab code posted by Charles J. Ammon on his personal page](https://sites.psu.edu/charlesammon/2017/01/19/seismic-reflectiontransmission-coefficients-with-matlab/ "Link to Charles J. Ammons's post"). The notebook merely served to validate the results obtained in 'Refl_Trans_coef.ipynb'.   
- 
-Best regards,
-Kees
