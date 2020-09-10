@@ -5,18 +5,6 @@ channels:
 dependencies:
   - python=3.7
   - jupyter
-  - basemap
-  - obspy
-  - notebook
-  - pillow
-  - netcdf4
-  - numba
+  - math 
   - numpy
-  - basemap-data-hires
-  - pandas
-  - scipy
   - matplotlib
-  - tornado=5.1.1
-  - ipywidgets
-  - gdal
-  - ipython
