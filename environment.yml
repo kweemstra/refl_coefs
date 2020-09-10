@@ -1,0 +1,22 @@
+name: pfg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter
+  - basemap
+  - obspy
+  - notebook
+  - pillow
+  - netcdf4
+  - numba
+  - numpy
+  - basemap-data-hires
+  - pandas
+  - scipy
+  - matplotlib
+  - tornado=5.1.1
+  - ipywidgets
+  - gdal
+  - ipython
